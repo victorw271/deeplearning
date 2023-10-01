@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-### [Assignment 1](Deep-Learning/assignment-1/Assignment_1_DeepLearning.ipynb)
+### [Assignment 1](dl/assignment_1/Assignment_1.ipynb)
 - In Assignment 1, we tackle the fascinating task of carpet classification using Convolutional Neural Networks (CNNs). Dive into the world of image recognition as we train and evaluate deep learning models to identify different carpet patterns.
 
 ### [Assignment 2](Deep-Learning/assignment-2/Assignment_2_DeepLearning.ipynb)
